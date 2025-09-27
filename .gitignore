@@ -1,0 +1,70 @@
+# MATLAB Robotics Simulations - Git Ignore File
+
+# MATLAB generated files
+*.asv
+*.m~
+*.mat
+*.mex*
+*.p
+*.prj
+*.slxc
+*.autosave
+
+# Simulink generated files
+*.slx.autosave
+*.mdl.autosave
+*.slxc
+*.autosave
+
+# Temporary files
+*~
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+
+# MATLAB preferences and settings
+matlab.prf
+matlab_crash_dump*
+
+# Build and cache directories
+build/
+cache/
+.simcache/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*.backup
+*.orig
+
+# Large data files (uncomment if needed)
+# *.dat
+# *.bin
+
+# Personal notes and drafts
+notes.txt
+draft.md
+TODO.txt
